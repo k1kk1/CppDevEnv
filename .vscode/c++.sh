@@ -6,7 +6,7 @@ then
     exit
 fi
  
-rootpath="/Users/miz/src/C_C++/C++DevEnvforVScode/"
+rootpath="/path/to/yourworkspace"
 #-------------------------------
 # 一時的に使う実行ファイル名を作る
 #-------------------------------
