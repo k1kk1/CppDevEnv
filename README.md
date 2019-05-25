@@ -23,7 +23,6 @@ C++ VScode 向け開発環境
 
 for mac
 
-<details>
 ```keybinding.json
     {
         "key": "shift+cmd+r",
@@ -35,9 +34,9 @@ for mac
         "command": "extension.runner.stop"
     },
 ```
-</details>
+
 for windows
-<details>
+
 ```keybinding.json
     {
         "key": "shift+ctrl+r",
@@ -49,7 +48,6 @@ for windows
         "command": "extension.runner.stop"
     },
 ```
-</details>
 
 ## Keybord Shortcut
 
