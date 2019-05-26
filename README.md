@@ -35,20 +35,6 @@ for mac
     },
 ```
 
-for windows
-
-```keybinding.json
-    {
-        "key": "shift+ctrl+r",
-        "command": "extension.runner.start",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "shift+ctrl+t",
-        "command": "extension.runner.stop"
-    },
-```
-
 ## Keybord Shortcut
 
 - Cmd + shift + r
